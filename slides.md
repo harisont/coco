@@ -11,7 +11,7 @@ institute: "Språkbanken, University of Gothenburg"
 ## `whoami`
 - PhD student at the University of Gothenburg
 - current main focus: treebanking L2 Swedish __essays__
-- side project: annotation of interactional L2 Italian data
+- recent side project: annotation of __interactional__ L2 Italian data (StraParla)
 - experience with SpLAn-UD: < 1 week
 
 ## A first example
