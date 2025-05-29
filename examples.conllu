@@ -1,0 +1,61 @@
+1	what	what	PRON	WP	PronType=Int	4	obj	_	Speaker=A
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	Speaker=A
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	Speaker=A
+4	do	do	VERB	VB	VerbForm=Inf	0	root	_	Speaker=A
+5	with	with	ADP	IN	_	4	dep	_	Speaker=A
+
+1	this	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Speaker=B
+2	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	Speaker=B
+
+1	what	what	PRON	WP	PronType=Int	4	obj	_	Speaker=A
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	Speaker=A
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	Speaker=A
+4	do	do	VERB	VB	VerbForm=Inf	0	root	_	Speaker=A
+5	with	with	ADP	IN	_	7	case	_	Speaker=A
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	Speaker=B
+7	sentence	sentence	NOUN	NN	Number=Sing	4	obl	_	Speaker=B
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	_	Speaker=A
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=A
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Speaker=A
+4	more	more	ADV	RBR	Degree=Cmp	5	advmod	_	Speaker=A
+5	difficult	difficult	ADJ	JJ	Degree=Pos	6	amod	_	Speaker=A
+6	case	case	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=A
+
+1	another	another	DET	DT	PronType=Ind	2	det	_	Speaker=B
+2	example	example	NOUN	NN	Number=Sing	0	root	_	Speaker=B
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	_	Speaker=A
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=A
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Speaker=A
+4	more	more	ADV	RBR	Degree=Cmp	5	advmod	_	Speaker=A
+5	difficult	difficult	ADJ	JJ	Degree=Pos	6	amod	_	Speaker=A
+6	case	case	NOUN	NN	Number=Sing	8	reparandum	_	Speaker=A
+7	another	another	DET	DT	PronType=Ind	8	det	_	Speaker=B
+8	example	example	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=B
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	_	Speaker=A
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=A
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Speaker=A
+4	more	more	ADV	RBR	Degree=Cmp	5	advmod	_	Speaker=A
+5	difficult	difficult	ADJ	JJ	Degree=Pos	6	amod	_	Speaker=A
+6	case	case	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=A
+7	another	another	DET	DT	PronType=Ind	8	det	_	Speaker=B
+8	example	example	NOUN	NN	Number=Sing	6	reparandum	_	Speaker=B
+
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	_	Speaker=A
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=A
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	Speaker=A
+4	stack	stack	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=A
+5	a	a	DET	DT	PronType=Ind	6	det	_	Speaker=B
+6	pile	pile	NOUN	NN	Number=Sing	4	reparandum	_	Speaker=B
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	_	Speaker=A
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=A
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Speaker=A
+4	more	more	ADV	RBR	Degree=Cmp	5	advmod	_	Speaker=A
+5	difficult	difficult	ADJ	JJ	Degree=Pos	6	amod	_	Speaker=A
+6	case	case	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=A
+7	another	another	DET	DT	PronType=Ind	8	det	_	Speaker=B
+8	example	example	NOUN	NN	Number=Sing	2	nsubj	_	Speaker=B
