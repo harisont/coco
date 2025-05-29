@@ -284,8 +284,6 @@ institute: "Språkbanken, University of Gothenburg"
   \put(228.75,99.66666666666667){{\tiny \bfseries nsubj}}
 \end{picture}
 
-\bigskip
-
 - intuitive analysis
 - problem:
   \small
